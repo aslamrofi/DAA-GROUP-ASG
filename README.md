@@ -31,11 +31,3 @@ We pitted three classic algorithmic paradigms against each other to see who hand
 
 **🏆 Our Ultimate Conclusion:** The best real-world solution is a **hybrid approach**. Use the Greedy algorithm to rapidly calculate *who* gets the water, and feed those destination nodes into Dijkstra to figure out *how* to drive it there.
 
-## 🚀 How to Run Locally
-
-Because we used a clean separation of the JavaFX UI and the core mathematical logic, running this locally requires linking the JavaFX SDK.
-
-**1. Clone the repo:**
-```bash
-git clone [https://github.com/your-username/aqua-optimizers.git](https://github.com/your-username/aqua-optimizers.git)
-cd aqua-optimizers
